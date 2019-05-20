@@ -1,0 +1,77 @@
+.header {
+  background: linear-gradient(to left, #a6ffcb, #12d8fa, #1fa2ff);
+  color: white;
+  font-size: 3em;
+}
+
+.form {
+  background-color: white;
+  text-align: center;
+  box-shadow: -6px 12px 19px 0px rgb(107, 106, 106);
+  border-radius: 10px;
+}
+
+.input input,
+.input select {
+  border-radius: 0;
+  border: 0;
+  border-bottom: 1px solid #ced4da;
+}
+
+.sponsored-companies {
+  background-color: rgb(188, 190, 188);
+  color: #ececec;
+}
+
+.why-us {
+  color: #8c8c8c;
+}
+
+.why-us h1 {
+  font-size: 3rem !important;
+}
+
+.why-us a {
+  color: #8c8c8c;
+  font-size: 1.5rem;
+  border-bottom: 1px solid #8c8c8c;
+}
+
+.start-now {
+  background: linear-gradient(to left, #a6ffcb, #12d8fa, #1fa2ff);
+  color: white;
+  text-align: center;
+}
+
+.about {
+  color: #8c8c8c;
+}
+
+.details {
+  color: white;
+  background-color: #333333;
+}
+
+.footer {
+  color: #5f5f5f;
+  text-align: center;
+  background-color: #373737;
+}
+
+.blue {
+  color: #4dade3;
+}
+
+.orange {
+  color: #e6994c;
+}
+
+.white {
+  color: white;
+}
+
+button {
+  background-color: #ff9e3c !important;
+  color: white !important;
+  border-radius: 30px !important;
+}
